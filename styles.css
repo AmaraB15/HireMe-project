@@ -1,0 +1,11 @@
+h2 {
+    color: red;
+}
+
+.container  {
+    display: flex;
+    justify-content: center;
+}
+body {
+    background-color: red;
+}
